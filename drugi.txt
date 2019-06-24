@@ -1,3 +1,4 @@
 wiocha
 plaga
 sadasdasda
+to jest plik z git hub
