@@ -1,7 +1,4 @@
 wiocha
 plaga
 sadasdasda
-<<<<<<< HEAD
-=======
-
->>>>>>> dfa002dbe59e878c7da2b38428b8ea825c470058
+g2 modyfikacja 
