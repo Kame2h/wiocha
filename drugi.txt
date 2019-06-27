@@ -2,3 +2,4 @@ wiocha
 plaga
 sadasdasda
 g1 modyfikacja
+g2 modyfikacja 
